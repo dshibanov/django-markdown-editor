@@ -7,6 +7,10 @@ name = "pypi"
 django = "*"
 markdown = "==3.3.4"
 requests = "*"
+martor = "*"
+gunicorn = "*"
+pynvim = "*"
+flake8 = "*"
 
 [dev-packages]
 
